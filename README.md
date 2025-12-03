@@ -2,64 +2,60 @@
 
 <br/>
 
-<img src="https://i.imgur.com/2Z8Yw5Y.png" width="200px"/>
+<img src="https://i.imgur.com/2Z8Yw5Y.png" width="180px"/>
 
 # **Quevedo**
-### *Developer • Clean Code • Dark Minimalism*
-
-<br/>
+### *Dark Developer • Minimalismo • Código Limpio*
 
 ---
 
-## 🕊️
-### *"El silencio y la disciplina construyen mejores cosas que el ruido."*
+## ✦  
+### *"El silencio crea más que el ruido."*
 
 ---
-
-<br/>
 
 ## 🛠️ Tecnologías
 <p>
   <img src="https://skillicons.dev/icons?i=java,maven,js,ts,html,css,git,github,mysql,postgres,py,linux" />
 </p>
 
-<br/>
-
 ---
 
 ## 📌 Sobre mí
 - Minimalista  
-- Me gusta el diseño limpio y los ambientes oscuros  
-- Amante del código bien estructurado  
-- Siempre aprendiendo algo nuevo  
-- Cero ruido, solo progreso  
+- Prefiero lo sobrio, oscuro y limpio  
+- Enfoque en código ordenado  
+- Disciplina > ruido  
+- Aprendizaje constante  
 
 ---
 
 ## ⚡ Actualmente
-- Trabajando en proyectos Java / NetBeans  
-- Estudiando arquitectura de software  
-- Práctica diaria de algoritmos y estructuras  
-- Construyendo mis propios proyectos personales  
+- Proyectos en Java (NetBeans)  
+- Arquitectura y buenas prácticas  
+- Resolución de algoritmos  
+- Desarrollo personal en silencio  
 
 ---
 
 ## 🧩 Intereses
-🖤 Programación  
-🖤 Diseño oscuro  
-🖤 Automatización  
-🖤 Bases de datos  
-🖤 Performance y optimización  
+- Programación  
+- Diseño oscuro  
+- Automatización  
+- Bases de datos  
+- Optimización y performance  
 
 ---
 
 ## 📫 Contacto
 **Email:** tuemail@example.com
 
-<br/><br/>
+<br/>
 
-<img src="https://i.imgur.com/DsdFJc1.png" width="120px"/>
+<img src="https://i.imgur.com/DsdFJc1.png" width="100px"/>
 
-### 🖤 *Gracias por visitar mi perfil* 🖤
+<br/>
+
+### *Gracias por pasar.*
 
 </div>
