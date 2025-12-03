@@ -5,50 +5,54 @@
 <img src="https://i.imgur.com/2Z8Yw5Y.png" width="180px"/>
 
 # **Quevedo**
-### *Dark Developer • Minimalismo • Código Limpio*
 
----
+### *Тёмный разработчик • Минимализм • Чистый код*
 
-## ✦  
-### *"El silencio crea más que el ruido."*
+<br/>
 
----
+> _«Тишина создаёт больше, чем шум.»_
 
-## 🛠️ Tecnologías
-<p>
-  <img src="https://skillicons.dev/icons?i=java,maven,js,ts,html,css,git,github,mysql,postgres,py,linux" />
-</p>
+<br/>
 
----
+## 🛠️ Технологии
 
-## 📌 Sobre mí
-- Minimalista  
-- Prefiero lo sobrio, oscuro y limpio  
-- Enfoque en código ordenado  
-- Disciplina > ruido  
-- Aprendizaje constante  
+<img src="https://skillicons.dev/icons?i=java,maven,js,ts,html,css,git,github,mysql,postgres,py,linux&theme=dark" />
 
----
+<br/>
 
-## ⚡ Actualmente
-- Proyectos en Java (NetBeans)  
-- Arquitectura y buenas prácticas  
-- Resolución de algoritmos  
-- Desarrollo personal en silencio  
+## ℹ️ О себе
 
----
+- Минималист до мозга костей  
+- Люблю тёмные темы и чистые пространства  
+- Код — это порядок и дисциплина  
+- Молчание > пустой шум  
+- Постоянно учусь в тени  
 
-## 🧩 Intereses
-- Programación  
-- Diseño oscuro  
-- Automatización  
-- Bases de datos  
-- Optimización y performance  
+<br/>
 
----
+## ⚡ Сейчас
 
-## 📫 Contacto
-**Email:** tuemail@example.com
+- Java-проекты (NetBeans / IntelliJ)  
+- Архитектура и чистая кодовая база  
+- Алгоритмы и оптимизация  
+- Развиваюсь тихо и целенаправленно  
+
+<br/>
+
+## 🔥 Интересы
+
+- Программирование  
+- Тёмный дизайн и UI  
+- Автоматизация всего  
+- Базы данных и производительность  
+- Low-level и системы  
+
+<br/>
+
+## 📬 Связь
+
+**Email:** tuemail@example.com  
+(пиши только по делу)
 
 <br/>
 
@@ -56,6 +60,6 @@
 
 <br/>
 
-### *Gracias por pasar.*
+_«Меньше слов — больше кода.»_
 
 </div>
