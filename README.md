@@ -27,10 +27,10 @@
 ## ℹ️ Sobre mí
 
 - Minimalista  
-- Prefiero el diseño oscuro y limpio  
+- Diseño oscuro y limpio  
 - El orden en el código es ley  
 - Silencio > ruido  
-- Siempre aprendiendo, sin llamar la atención  
+- Aprendizaje constante en la sombra  
 
 <br/>
 
@@ -40,8 +40,8 @@
 
 - Proyectos Java (NetBeans / IntelliJ)  
 - Arquitectura y buenas prácticas  
-- Algoritmos, optimización y estructura  
-- Construyendo cosas en silencio  
+- Algoritmos y optimización  
+- Construyendo proyectos propios  
 
 <br/>
 
@@ -50,10 +50,10 @@
 ## 🔥 Intereses
 
 🖤 Programación  
-🖤 UI oscuro / minimalista  
+🖤 Diseño oscuro  
 🖤 Automatización  
 🖤 Bases de datos  
-🖤 Sistemas y performance  
+🖤 Performance  
 
 <br/>
 
@@ -71,5 +71,9 @@
 <br/>
 
 _«Menos palabras — más código.»_
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="350px"/>
 
 </div>
