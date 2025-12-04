@@ -1,67 +1,51 @@
-<div align="center" style="background-color:#000; padding:40px; border-radius:12px;">
+<div align="center">
 
-<br/>
-
-<img src="https://i.imgur.com/2Z8Yw5Y.png" width="180px" style="border-radius:8px;" />
-
-# <span style="color:white;">Quevedo</span>
-
-### <span style="color:gray;">Dark Developer • Minimalism • Clean Code</span>
-
-<br/>
-
-<span style="color:#777; font-style:italic;">
-«El silencio construye más que el ruido.»
-</span>
+<!-- BANNER NEGRO O GIF OSCURO -->
+<img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="100%" />
 
 <br/><br/>
 
+<img src="https://i.imgur.com/2Z8Yw5Y.png" width="180px"/>
+
+# Quevedo  
+### *Dark Developer • Minimalism • Clean Code*
+
+<br/>
+
+«El silencio construye más que el ruido.»
+
 ---
 
-## <span style="color:white;">⚒️ Tecnologías</span>
+## ⚒️ Tecnologías
 
 <img src="https://skillicons.dev/icons?i=java,maven,js,ts,html,css,git,github,mysql,postgres,py,linux&theme=dark" />
 
-<br/><br/>
-
 ---
 
-## <span style="color:white;">ℹ️ Sobre mí</span>
-
-<div align="left" style="color:white; width:70%;">
-
+## Sobre mí
 - Minimalista  
 - Diseño oscuro  
-- Limpieza visual > caos  
-- Me gusta trabajar en silencio  
-- Siempre mejorando mis skills  
-
-</div>
-
-<br/>
+- Limpieza visual  
+- Trabajo silencioso y disciplinado  
+- Siempre aprendiendo  
 
 ---
 
-## <span style="color:white;">🔥 Intereses</span>
-
-<div align="left" style="color:white; width:70%;">
-
+## Intereses
 - Programación  
 - UI dark  
 - Bases de datos  
 - Optimización  
 - Automatización  
 
-</div>
+---
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/c6ef1aa3-98c6-48d9-b3b7-1e3d4733656e" width="140px"/>
 
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="140px" />
-
-<br/><br/>
-
-<span style="color:gray;">«Menos palabras — más código.»</span>
-
-<br/><br/>
+«Menos palabras — más código.»
 
 </div>
