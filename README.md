@@ -3,7 +3,7 @@
 # *QUEVEDO J*
 
 ### *Lose Again ??*
-<img src="https://github.com/user-attachments/assets/c6ef1aa3-98c6-48d9-b3b7-1e3d4733656e" width="190px"/>
+<div class="tenor-gif-embed" data-postid="8296634521163418132" data-share-method="host" data-aspect-ratio="1.29016" data-width="100%"><a href="https://tenor.com/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-8296634521163418132">Shigure Ui Dance Sticker</a>from <a href="https://tenor.com/search/shigure+ui-stickers">Shigure Ui Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
