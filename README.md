@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Quevedo**
+# *QUEVEDO J*
 
 ### *Lose Again ??*
 <img src="https://github.com/user-attachments/assets/c6ef1aa3-98c6-48d9-b3b7-1e3d4733656e" width="190px"/>
@@ -9,7 +9,6 @@
 
 <br/>
 
-<!-- Player NO centrado → se quita el <div align="center"> -->
 **<span style="font-size:15px;">Like a Stone - Audioslave :</span>**
 
 <span style="font-size:12px;">
@@ -29,7 +28,8 @@
 <br/>
 
 ## 🛠️ Tecnologías
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,maven,js,ts,html,css,git,github,mysql,postgres,py,linux&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,html,css,git,github,docker,linux,mysql,postgres&theme=dark" />
 
 <br/>
 
@@ -51,6 +51,4 @@
 
 <br/>
 
-<div align="center">
 <img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="210px"/>
-</div>
