@@ -1,79 +1,67 @@
-<div align="center">
+<div align="center" style="background-color:#000; padding:40px; border-radius:12px;">
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/c6ef1aa3-98c6-48d9-b3b7-1e3d4733656e" width="180px"/>
+<img src="https://i.imgur.com/2Z8Yw5Y.png" width="180px" style="border-radius:8px;" />
 
-# **Quevedo**
+# <span style="color:white;">Quevedo</span>
 
-### *Dark Developer • Minimalism • Clean Code*
-
-<br/>
-
-> _«El silencio construye más que el ruido.»_
+### <span style="color:gray;">Dark Developer • Minimalism • Clean Code</span>
 
 <br/>
+
+<span style="color:#777; font-style:italic;">
+«El silencio construye más que el ruido.»
+</span>
+
+<br/><br/>
 
 ---
 
-## 🛠️ Tecnologías
+## <span style="color:white;">⚒️ Tecnologías</span>
 
 <img src="https://skillicons.dev/icons?i=java,maven,js,ts,html,css,git,github,mysql,postgres,py,linux&theme=dark" />
 
+<br/><br/>
+
 ---
 
-<br/>
+## <span style="color:white;">ℹ️ Sobre mí</span>
 
-## ℹ️ Sobre mí
+<div align="left" style="color:white; width:70%;">
 
 - Minimalista  
-- Diseño oscuro y limpio  
-- El orden en el código es ley  
-- Silencio > ruido  
-- Aprendizaje constante en la sombra  
+- Diseño oscuro  
+- Limpieza visual > caos  
+- Me gusta trabajar en silencio  
+- Siempre mejorando mis skills  
+
+</div>
 
 <br/>
 
 ---
 
-## ⚡ Actualmente
+## <span style="color:white;">🔥 Intereses</span>
 
-- Proyectos Java (NetBeans / IntelliJ)  
-- Arquitectura y buenas prácticas  
-- Algoritmos y optimización  
-- Construyendo proyectos propios  
+<div align="left" style="color:white; width:70%;">
 
-<br/>
+- Programación  
+- UI dark  
+- Bases de datos  
+- Optimización  
+- Automatización  
 
----
-
-## 🔥 Intereses
-
-🖤 Programación  
-🖤 Diseño oscuro  
-🖤 Automatización  
-🖤 Bases de datos  
-🖤 Performance  
-
-<br/>
-
----
-
-## 📬 Contacto
-
-**Email:** tuemail@example.com  
-*(solo mensajes serios)*
+</div>
 
 <br/><br/>
 
-<img src="https://i.imgur.com/DsdFJc1.png" width="100px"/>
-
-<br/>
-
-_«Menos palabras — más código.»_
+<img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="140px" />
 
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/91ed7d00-397e-4130-8991-248fbf87a34b" width="350px"/>
+<span style="color:gray;">«Menos palabras — más código.»</span>
+
+<br/><br/>
 
 </div>
